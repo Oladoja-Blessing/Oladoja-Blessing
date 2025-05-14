@@ -8,7 +8,7 @@
 
 - 📊 Power BI, Excel, DAX
 - 📈 R (ggplot2, dplyr)
-- 📂 SQL, PostgreSQL, PAST
+- 📂 SQL, PostgreSQL
 - 🌐 Git, GitHub, Markdown
 
 ---
@@ -18,9 +18,8 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Employee Satisfaction Dashboard](https://github.com/yourusername/employee-satisfaction-powerbi) | An interactive Power BI dashboard analyzing satisfaction drivers from a Kaggle dataset | Power BI, DAX |
-| [Sales Data Insights](https://github.com/yourusername/sales-powerbi-dashboard) | Visual report with KPIs, slicers, and forecast | Power BI |
-| [COVID-19 EDA](https://github.com/yourusername/python-covid-eda) | Data cleaning, EDA, and visualization in Python | pandas, seaborn |
-| [SQL Portfolio](https://github.com/yourusername/sql-projects) | Common business queries for product & customer analysis | PostgreSQL |
+| [Palmer Penguins Dashboard](https://github.com/Oladoja-Blessing/Palmer-penguins-dashboard/tree/main) | Visual report with slicers | R, Shiny |
+| [Titanic Sinking Survival Prediction](https://github.com/Oladoja-Blessing/Titanic-sinking.git) | Data cleaning, EDA, and Prediction in R | Shiny, R, HTML and CSS |
 
 ---
 
