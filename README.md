@@ -4,8 +4,6 @@
 
 ---
 ## Badges
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oladoja-Blessing&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oladoja-Blessing&layout=compact&theme=radical)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -29,6 +27,7 @@
 | [Fintech Analytics SQL](https://github.com/Oladoja-Blessing/DataAnalytics-Assessment.git) | SQL queries solving real-world business problems, including aggregations, joins, and date calculations | SQL, MySQL |
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oladoja-Blessing&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 
