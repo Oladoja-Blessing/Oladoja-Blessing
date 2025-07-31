@@ -3,6 +3,13 @@
 🎓 I'm a data analyst and aspiring researcher with a strong interest in people analytics, ecosystem sustainability, and applied data science. I explore real-world questions using tools like **Power BI**, **R**, and **SQL** — blending data storytelling with insight-driven decision-making.
 
 ---
+## Badges
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oladoja-Blessing&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oladoja-Blessing&layout=compact&theme=radical)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
 ## 🔧 Tools & Technologies
 
