@@ -1,9 +1,6 @@
 # 👋 Hi there! I'm Blessing Oladoja
 
 🎓 I'm a data analyst and aspiring researcher with a strong interest in people analytics, ecosystem sustainability, and applied data science. I explore real-world questions using tools like **Power BI**, **R**, and **SQL** — blending data storytelling with insight-driven decision-making.
-
----
-## Badges
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
